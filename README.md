@@ -3,7 +3,7 @@ ASP.NET MVC Blog app
 
 ## 1. What is this project about?
 Motosfera is an ASP.NET MVC web application that I created to simply let myself get familiar with building
-modern web apps using C#, Blazor, HTML, Bootstrap/CSS and other techs. This app is a very simple blog app
+modern web apps using C#, Razor Pages, HTML, Bootstrap/CSS and other techs. This app is a very simple blog app
 about cars, automotive and racing that allows user to read the content and write some comments, and for admin,
 there is a easy-to-use admin-interface.
 
