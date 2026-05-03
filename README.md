@@ -29,10 +29,6 @@ After getting logged, admin gets additional buttons on index site, like Create a
 on the post details page he has an access to delete and edit actions on the post and delete action on the specific comment  
 ![image](https://github.com/user-attachments/assets/f2feb65f-46d5-4838-abc0-63e15559d27a)
 
-## 4. What is to improve?  
-I'm currently working on hosting the page so every interested could see the app live and use it a bit. I really hope to make it happen soon :)  
-There is also a plenty of space to improve here - I could use Clean Architecture to make an app easier to maintain or use DTO to separate user actions from database.
-Also, I know it would be nice to use more CSS or JavaScript to make the UI more interactive and nicer for the user eye.
 
 
 
